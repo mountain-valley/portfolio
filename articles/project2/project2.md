@@ -3,4 +3,5 @@
 _Insert your second best project here._
 
 This is how you attach an image:
-![](artices/project2/cool_photo.png)
+
+![](articles/project2/cool_photo.png)
