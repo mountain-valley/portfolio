@@ -1,5 +1,7 @@
 # Summary
 
+The summary sheet creates the layout for your gitbooks website. 
+
 * [Introduction](README.md)
 
 ## Blog
